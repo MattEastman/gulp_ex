@@ -1,0 +1,18 @@
+{
+  "name": "ex_gulp",
+  "version": "1.0.0",
+  "description": "this is a descr",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "example",
+    "gi"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
